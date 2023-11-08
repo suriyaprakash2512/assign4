@@ -1,0 +1,7 @@
+C:\Users\SuriyaPrakash\source\repos\assign4\bin\Debug\assign4.exe.config
+C:\Users\SuriyaPrakash\source\repos\assign4\bin\Debug\assign4.exe
+C:\Users\SuriyaPrakash\source\repos\assign4\bin\Debug\assign4.pdb
+C:\Users\SuriyaPrakash\source\repos\assign4\obj\Debug\assign4.csproj.AssemblyReference.cache
+C:\Users\SuriyaPrakash\source\repos\assign4\obj\Debug\assign4.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\assign4\obj\Debug\assign4.exe
+C:\Users\SuriyaPrakash\source\repos\assign4\obj\Debug\assign4.pdb
